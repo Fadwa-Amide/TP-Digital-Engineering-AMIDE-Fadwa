@@ -19,7 +19,7 @@
 
 ## Suivi de la Pull Request (Exercice 2)
 * **Lien de la Pull Request fusionnée :** 
-  
+  https://github.com/Fadwa-Amide/calcul-c-equipe/pull/2
 
 --- 
 
