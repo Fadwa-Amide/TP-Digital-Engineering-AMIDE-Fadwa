@@ -10,16 +10,16 @@
 ## Liens des Dépôts GitHub
 
 * **Dépôt Exercice 1 (`calcul-c`) :** 
-  https://github.com/Fadwa-Amide/calcul-c
+  https://github.com/Fadwa-Amide/calcul-c.git
 
 * **Dépôt Exercice 2 (`calcul-c-equipe` - Binôme) :** 
-  https://github.com/Fadwa-Amide/calcul-c-equipe
+  https://github.com/Fadwa-Amide/calcul-c-equipe.git
 
 ---
 
 ## Suivi de la Pull Request (Exercice 2)
 * **Lien de la Pull Request fusionnée :** 
-  https://github.com/Fadwa-Amide/calcul-c-equipe/pull/1
+  
 
 --- 
 
